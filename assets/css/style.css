@@ -5675,10 +5675,10 @@ span.fill {
 .contact-area-inner {
     background: #161616;
     padding: 0 0 120px;
-    background: url(../images/resource/world.jpg);
+    /* background: url(../images/resource/world1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center;
+    background-position: center; */
 }
 
 .contact-area-inner .single-contact-box.upper {
@@ -5780,7 +5780,7 @@ span.fill {
 
 .map-section {
     padding: 120px 0 110px;
-    background: #fff;
+    background: #161616;
 }
 
 .map-section .row.mg-pt {
