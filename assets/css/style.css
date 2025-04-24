@@ -220,7 +220,7 @@ Tags:       architect, architecture, architecture design, architecture portfolio
 
 .header-icon a::after {
     position: absolute;
-    content: "0";
+    /* content: "0"; */
     top: 0;
     right: -8px;
     height: 15px;
